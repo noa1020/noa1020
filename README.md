@@ -21,4 +21,4 @@ My motto in life is Try to learn something about everything and everything about
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noa1020&show_icons=true&locale=en" alt="noa1020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noa1020&" alt="noa1020" /></p>
-
+<p><img align="center" src="github-snake.svg" alt="noa1020" /></p>
