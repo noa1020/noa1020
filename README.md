@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm noa</h1>
 <h3 align="center">A passionate software developer from Israel<br>
-My motto in life is Try to learn something about everything and everything about something. 🤩</h3>
+
+My life motto is Try to learn something about everything and everything about something. 🤩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noa1020&label=Profile%20views&color=0e75b6&style=flat" alt="noa1020" /> </p>
 
